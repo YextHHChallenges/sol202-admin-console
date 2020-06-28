@@ -1,0 +1,23 @@
+{
+  "$id": "c_restaurantType",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Restaurant Type",
+  "description": "",
+  "typeId": "yext/option",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "Food Truck",
+          "textValue": "FOOD_TRUCK"
+        },
+        {
+          "displayName": "Dine-in Restaurant",
+          "textValue": "DINE-IN_RESTAURANT"
+        }
+      ]
+    }
+  },
+  "localization": "PRIMARY_ONLY",
+  "group": "NONE"
+}
