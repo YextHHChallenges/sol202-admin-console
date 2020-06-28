@@ -1,0 +1,331 @@
+{
+  "$id": "369a63262c844ca5a4e5fbfecda65b47",
+  "$schema": "https://schema.yext.com/config/km/entity-upload-config/v1",
+  "displayName": "Job File",
+  "mapping": [
+    {
+      "sourceColumnName": "Entity ID",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "yext/entityId",
+        "propertyName": []
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Name",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "yext/name",
+        "propertyName": []
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Hiring Organization",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "yext/hiringOrganization",
+        "propertyName": []
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Job Location \u003e Entity ID",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "yext/jobLocation",
+        "propertyName": [
+          "externalId"
+        ]
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Description",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "yext/description",
+        "propertyName": []
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Date Posted",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "yext/datePosted",
+        "propertyName": []
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Employment Type",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "yext/employmentType",
+        "propertyName": []
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Keywords",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "yext/keywords",
+        "propertyName": []
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        },
+        {
+          "delimitedColumnConfiguration": {
+            "delimiter": "COMMA"
+          },
+          "transformType": "DELIMITED_COLUMNS"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Application URL",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "yext/applicationUrl",
+        "propertyName": []
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Benefits",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "c_benefits",
+        "propertyName": []
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        },
+        {
+          "delimitedColumnConfiguration": {
+            "delimiter": "COMMA"
+          },
+          "transformType": "DELIMITED_COLUMNS"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Job Photo \u003e URL",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "c_jobPhoto",
+        "propertyName": [
+          "url"
+        ]
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Job Department",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "c_jobDepartment",
+        "propertyName": []
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Job Qualifications",
+      "ignoreColumn": false,
+      "fieldReference": {
+        "id": "c_jobQualifications",
+        "propertyName": []
+      },
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        },
+        {
+          "richTextFormatConfiguration": {
+            "formatLanguage": "MARKDOWN",
+            "formatTransformValues": "ALLOW_SUPPORTED_FORMATTING"
+          },
+          "transformType": "RICH_TEXT_FORMATTING_TYPE"
+        }
+      ]
+    },
+    {
+      "sourceColumnName": "Country/Region",
+      "ignoreColumn": true,
+      "transform": []
+    }
+  ],
+  "additionalField": [
+    {
+      "entityClassification": "NEW",
+      "fieldReference": {
+        "id": "yext/countryCode",
+        "propertyName": []
+      },
+      "fieldValue": "US",
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        }
+      ]
+    },
+    {
+      "entityClassification": "NEW",
+      "fieldReference": {
+        "id": "yext/entityTypeId",
+        "propertyName": []
+      },
+      "fieldValue": "Job",
+      "transform": [
+        {
+          "transformType": "TRIM_WHITESPACE"
+        },
+        {
+          "blankValueConfiguration": {
+            "handleBlankValues": "IGNORE"
+          },
+          "transformType": "HANDLE_BLANK_VALUES"
+        }
+      ]
+    }
+  ],
+  "action": [
+    {
+      "actionType": "APPLY_TEMPLATE",
+      "applyTemplateConfiguration": {
+        "id": "433efa53019842328671e35e048f0271"
+      },
+      "entityClassification": "NEW"
+    }
+  ]
+}

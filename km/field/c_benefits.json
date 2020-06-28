@@ -1,9 +1,9 @@
 {
-  "$id": "c_featuredGuests",
+  "$id": "c_benefits",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "displayName": "Featured Guests",
-  "description": "",
-  "typeId": "yext/list",
+  "displayName": "Benefits",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
   "type": {
     "listType": {
       "typeId": "yext/string",
@@ -14,6 +14,5 @@
       }
     }
   },
-  "localization": "PRIMARY_ONLY",
-  "group": "NONE"
+  "typeId": "yext/list"
 }

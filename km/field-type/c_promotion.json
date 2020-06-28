@@ -1,8 +1,8 @@
 {
   "$id": "c_promotion",
   "$schema": "https://schema.yext.com/config/km/field-type/v1",
-  "displayName": "Promotion",
   "description": "",
+  "displayName": "Promotion",
   "type": {
     "structType": {
       "property": [

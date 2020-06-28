@@ -1,8 +1,8 @@
 {
   "$id": "restaurant",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
-  "entityType": "yext/restaurant",
   "enabled": true,
+  "entityType": "yext/restaurant",
   "field": [
     {
       "id": "c_deliveryDisclaimer",

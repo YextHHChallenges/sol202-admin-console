@@ -1,9 +1,10 @@
 {
   "$id": "c_theme",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "displayName": "Theme",
   "description": "",
-  "typeId": "yext/list",
+  "displayName": "Theme",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
   "type": {
     "listType": {
       "typeId": "yext/option",
@@ -43,6 +44,5 @@
       }
     }
   },
-  "localization": "PRIMARY_ONLY",
-  "group": "NONE"
+  "typeId": "yext/list"
 }

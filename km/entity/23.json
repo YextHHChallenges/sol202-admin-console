@@ -1,11 +1,6 @@
 {
   "$id": "23",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
-  "entityType": "yext/restaurant",
-  "labels": [
-    "3ea67e966bb04104868f239a133a8392"
-  ],
-  "folder": "e53decf883a0425d84d064a8f7cc6685",
   "content": {
     "c_deliveryDisclaimer": "All issues with orders placed via 3rd party apps should be resolved through that vendor.",
     "c_primaryCTA": {
@@ -182,5 +177,10 @@
       "preferDisplayUrl": false,
       "url": "[[landingPageUrl]]"
     }
-  }
+  },
+  "entityType": "yext/restaurant",
+  "folder": "e53decf883a0425d84d064a8f7cc6685",
+  "labels": [
+    "3ea67e966bb04104868f239a133a8392"
+  ]
 }

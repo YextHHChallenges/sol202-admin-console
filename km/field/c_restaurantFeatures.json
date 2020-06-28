@@ -1,9 +1,10 @@
 {
   "$id": "c_restaurantFeatures",
   "$schema": "https://schema.yext.com/config/km/field/v1",
-  "displayName": "Restaurant Features",
   "description": "",
-  "typeId": "yext/list",
+  "displayName": "Restaurant Features",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
   "type": {
     "listType": {
       "typeId": "yext/option",
@@ -39,6 +40,5 @@
       }
     }
   },
-  "localization": "PRIMARY_ONLY",
-  "group": "NONE"
+  "typeId": "yext/list"
 }

@@ -1,11 +1,6 @@
 {
   "$id": "d63ab77e880e4821a18d889f178b644c",
   "$schema": "https://schema.yext.com/config/km/entity-template/v1",
-  "name": "New Restaurant Content",
-  "externalId": "newRestaurantContent",
-  "entityTypes": [
-    "yext/restaurant"
-  ],
   "content": {
     "c_primaryCTA": {
       "label": "Click to Order",
@@ -65,5 +60,10 @@
       }
     },
     "yext/priceRange": "ONE"
-  }
+  },
+  "entityTypes": [
+    "yext/restaurant"
+  ],
+  "externalId": "newRestaurantContent",
+  "name": "New Restaurant Content"
 }

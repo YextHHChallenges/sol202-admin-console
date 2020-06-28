@@ -1,9 +1,6 @@
 {
   "$id": "Event-1",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
-  "entityType": "yext/event",
-  "labels": [],
-  "folder": "6a6c09add61e4a5297578af6a45a00a9",
   "content": {
     "c_featuredGuests": [
       "Our Loyal Turtleheads"
@@ -32,5 +29,8 @@
     "yext/websiteUrl": {
       "url": "http://www.turtleheadtacos.com/events"
     }
-  }
+  },
+  "entityType": "yext/event",
+  "folder": "6a6c09add61e4a5297578af6a45a00a9",
+  "labels": []
 }
