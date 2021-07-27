@@ -1,5 +1,4 @@
 {
-  "$id": "7ddab03b4c5a47cc8bb7447d962d89f2",
   "$schema": "https://schema.yext.com/config/km/entity-template/v1",
   "content": {
     "yext/featuredMessage": {
