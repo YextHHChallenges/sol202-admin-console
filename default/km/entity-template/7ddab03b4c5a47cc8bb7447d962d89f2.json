@@ -9,6 +9,6 @@
   "entityTypes": [
     "yext/restaurant"
   ],
-  "externalId": "seasonalContent",
-  "name": "Seasonal Content"
+  "name": "Seasonal Content",
+  "$id": "seasonalContent"
 }

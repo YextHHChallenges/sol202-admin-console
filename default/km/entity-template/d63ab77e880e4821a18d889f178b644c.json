@@ -63,6 +63,6 @@
   "entityTypes": [
     "yext/restaurant"
   ],
-  "externalId": "newRestaurantContent",
-  "name": "New Restaurant Content"
+  "name": "New Restaurant Content",
+  "$id": "newRestaurantContent"
 }
