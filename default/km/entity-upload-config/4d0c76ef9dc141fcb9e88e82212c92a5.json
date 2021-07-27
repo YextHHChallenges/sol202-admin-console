@@ -679,7 +679,7 @@
     {
       "actionType": "APPLY_TEMPLATE",
       "applyTemplateConfiguration": {
-        "id": "d63ab77e880e4821a18d889f178b644c"
+        "id": "newRestaurantContent"
       },
       "entityClassification": "NEW"
     }
