@@ -7,7 +7,7 @@
       "sourceColumnName": "Entity ID",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/entityId",
+        "id": "entityId",
         "propertyName": []
       },
       "transform": [
@@ -26,7 +26,7 @@
       "sourceColumnName": "Entity Type",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/entityTypeId",
+        "id": "entityTypeId",
         "propertyName": []
       },
       "transform": [
@@ -45,7 +45,7 @@
       "sourceColumnName": "Country/Region",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/countryCode",
+        "id": "countryCode",
         "propertyName": []
       },
       "transform": [
@@ -64,7 +64,7 @@
       "sourceColumnName": "Name",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/name",
+        "id": "name",
         "propertyName": []
       },
       "transform": [
@@ -89,7 +89,7 @@
       "sourceColumnName": "Address \u003e Line 1",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/address",
+        "id": "address",
         "propertyName": [
           "line1"
         ]
@@ -110,7 +110,7 @@
       "sourceColumnName": "Address \u003e Line 2",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/address",
+        "id": "address",
         "propertyName": [
           "line2"
         ]
@@ -131,7 +131,7 @@
       "sourceColumnName": "Address \u003e Sublocality",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/address",
+        "id": "address",
         "propertyName": [
           "sublocality"
         ]
@@ -152,7 +152,7 @@
       "sourceColumnName": "Address \u003e City",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/address",
+        "id": "address",
         "propertyName": [
           "city"
         ]
@@ -173,7 +173,7 @@
       "sourceColumnName": "Address \u003e Region",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/address",
+        "id": "address",
         "propertyName": [
           "region"
         ]
@@ -194,7 +194,7 @@
       "sourceColumnName": "Address \u003e Postal Code",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/address",
+        "id": "address",
         "propertyName": [
           "postalCode"
         ]
@@ -215,7 +215,7 @@
       "sourceColumnName": "Address \u003e Extra Description",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/address",
+        "id": "address",
         "propertyName": [
           "extraDescription"
         ]
@@ -236,7 +236,7 @@
       "sourceColumnName": "Main Phone \u003e Phone Number",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/mainPhone",
+        "id": "mainPhone",
         "propertyName": [
           "phoneNumber"
         ]
@@ -263,7 +263,7 @@
       "sourceColumnName": "Featured Message \u003e Description",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/featuredMessage",
+        "id": "featuredMessage",
         "propertyName": [
           "description"
         ]
@@ -284,7 +284,7 @@
       "sourceColumnName": "Featured Message \u003e URL",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/featuredMessage",
+        "id": "featuredMessage",
         "propertyName": [
           "url"
         ]
@@ -305,7 +305,7 @@
       "sourceColumnName": "Description",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/description",
+        "id": "description",
         "propertyName": []
       },
       "transform": [
@@ -324,7 +324,7 @@
       "sourceColumnName": "Hours \u003e Monday",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/hours",
+        "id": "hours",
         "propertyName": [
           "flatinterval_monday"
         ]
@@ -345,7 +345,7 @@
       "sourceColumnName": "Hours \u003e Tuesday",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/hours",
+        "id": "hours",
         "propertyName": [
           "flatinterval_tuesday"
         ]
@@ -366,7 +366,7 @@
       "sourceColumnName": "Hours \u003e Wednesday",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/hours",
+        "id": "hours",
         "propertyName": [
           "flatinterval_wednesday"
         ]
@@ -387,7 +387,7 @@
       "sourceColumnName": "Hours \u003e Thursday",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/hours",
+        "id": "hours",
         "propertyName": [
           "flatinterval_thursday"
         ]
@@ -408,7 +408,7 @@
       "sourceColumnName": "Hours \u003e Friday",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/hours",
+        "id": "hours",
         "propertyName": [
           "flatinterval_friday"
         ]
@@ -429,7 +429,7 @@
       "sourceColumnName": "Hours \u003e Saturday",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/hours",
+        "id": "hours",
         "propertyName": [
           "flatinterval_saturday"
         ]
@@ -450,7 +450,7 @@
       "sourceColumnName": "Hours \u003e Sunday",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/hours",
+        "id": "hours",
         "propertyName": [
           "flatinterval_sunday"
         ]
@@ -471,7 +471,7 @@
       "sourceColumnName": "Geomodifier",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/geomodifier",
+        "id": "geomodifier",
         "propertyName": []
       },
       "transform": [
@@ -490,7 +490,7 @@
       "sourceColumnName": "Landing Page URL",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/landingPageUrl",
+        "id": "landingPageUrl",
         "propertyName": []
       },
       "transform": [
@@ -509,7 +509,7 @@
       "sourceColumnName": "Photo Gallery \u003e URL",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/photoGallery",
+        "id": "photoGallery",
         "propertyName": [
           "imageUrl"
         ]
@@ -536,7 +536,7 @@
       "sourceColumnName": "Photo Gallery \u003e Alternate Text",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/photoGallery",
+        "id": "photoGallery",
         "propertyName": [
           "alternateText"
         ]
@@ -563,7 +563,7 @@
       "sourceColumnName": "Photo Gallery \u003e Description",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/photoGallery",
+        "id": "photoGallery",
         "propertyName": [
           "description"
         ]

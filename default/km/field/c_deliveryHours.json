@@ -5,5 +5,5 @@
   "displayName": "Delivery Hours",
   "group": "NONE",
   "localization": "PRIMARY_ONLY",
-  "typeId": "yext/hours"
+  "typeId": "hours"
 }

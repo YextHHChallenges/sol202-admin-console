@@ -36,15 +36,15 @@
       "width": 1900
     },
     "c_jobQualifications": "* 1-3 years experience\n * Proficiency in Microsoft Office, Marketo, Hubspot, Pardot and Salesforce CRM\n * Excitement to learn",
-    "yext/applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/123",
-    "yext/datePosted": "2020-04-10",
-    "yext/description": "Join our marketing team and help to spread the word about Turtlehead Tacos. You will be working on both brand and digital marketing.",
-    "yext/employmentType": "FULL_TIME",
-    "yext/hiringOrganization": "Turtlehead Tacos Corporate",
-    "yext/jobLocation": "hq-1",
-    "yext/name": "Marketing Manager"
+    "applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/123",
+    "datePosted": "2020-04-10",
+    "description": "Join our marketing team and help to spread the word about Turtlehead Tacos. You will be working on both brand and digital marketing.",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": "Turtlehead Tacos Corporate",
+    "jobLocation": "hq-1",
+    "name": "Marketing Manager"
   },
-  "entityType": "yext/job",
+  "entityType": "job",
   "folder": "43072c6c3c1149e9bdc49677cde7ed9a",
   "labels": []
 }

@@ -6,7 +6,7 @@
     "entityType": [
       {
         "entityTypeId": [
-          "yext/restaurant"
+          "restaurant"
         ],
         "type": "IS"
       }
@@ -14,7 +14,7 @@
     "fieldsWithoutData": [
       {
         "fieldId": [
-          "yext/hours"
+          "hours"
         ],
         "type": "ANY"
       }

@@ -38,13 +38,13 @@
         "url": "[[landingPageUrl]]"
       }
     ],
-    "yext/attire": "CASUAL",
-    "yext/description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
-    "yext/featuredMessage": {
+    "attire": "CASUAL",
+    "description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
+    "featuredMessage": {
       "description": "Order online today",
       "url": "http://www.turtleheadtacos.com"
     },
-    "yext/logo": {
+    "logo": {
       "image": {
         "height": 150,
         "thumbnails": [
@@ -58,10 +58,10 @@
         "width": 150
       }
     },
-    "yext/priceRange": "ONE"
+    "priceRange": "ONE"
   },
   "entityTypes": [
-    "yext/restaurant"
+    "restaurant"
   ],
   "name": "New Restaurant Content",
   "$id": "newRestaurantContent"

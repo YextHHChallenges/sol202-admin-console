@@ -50,21 +50,21 @@
     ],
     "c_restaurantType": "FOOD_TRUCK",
     "c_territory": "Midwest",
-    "yext/address": {
+    "address": {
       "city": "Chicago",
       "countryCode": "US",
       "line1": "500 West Madison Street",
       "postalCode": "60661",
       "region": "IL"
     },
-    "yext/attire": "CASUAL",
-    "yext/description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
-    "yext/featuredMessage": {
+    "attire": "CASUAL",
+    "description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
+    "featuredMessage": {
       "description": "Order online today",
       "url": "http://www.turtleheadtacos.com"
     },
-    "yext/geomodifier": "Chicago",
-    "yext/hours": {
+    "geomodifier": "Chicago",
+    "hours": {
       "friday": {
         "openIntervals": [
           {
@@ -122,8 +122,8 @@
         ]
       }
     },
-    "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/logo": {
+    "landingPageUrl": "http://www.turtleheadtacos.com",
+    "logo": {
       "image": {
         "height": 150,
         "thumbnails": [
@@ -137,9 +137,9 @@
         "width": 150
       }
     },
-    "yext/mainPhone": "+13125558361",
-    "yext/name": "Turtlehead Tacos",
-    "yext/photoGallery": [
+    "mainPhone": "+13125558361",
+    "name": "Turtlehead Tacos",
+    "photoGallery": [
       {
         "description": "Our favorite ground beef tacos",
         "image": {
@@ -172,15 +172,15 @@
         }
       }
     ],
-    "yext/priceRange": "ONE",
-    "yext/timezone": "America/Chicago",
-    "yext/websiteUrl": {
+    "priceRange": "ONE",
+    "timezone": "America/Chicago",
+    "websiteUrl": {
       "displayUrl": "[[landingPageUrl]]",
       "preferDisplayUrl": false,
       "url": "[[landingPageUrl]]"
     }
   },
-  "entityType": "yext/restaurant",
+  "entityType": "restaurant",
   "folder": "351dd3754c6148f58da1b8caa92245df",
   "labels": [
     "c6c47cf214ef4e1e868474e2d59bb8a3"

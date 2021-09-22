@@ -7,7 +7,7 @@
       "sourceColumnName": "Entity ID",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/entityId",
+        "id": "entityId",
         "propertyName": []
       },
       "transform": [
@@ -26,7 +26,7 @@
       "sourceColumnName": "Name",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/name",
+        "id": "name",
         "propertyName": []
       },
       "transform": [
@@ -45,7 +45,7 @@
       "sourceColumnName": "Hiring Organization",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/hiringOrganization",
+        "id": "hiringOrganization",
         "propertyName": []
       },
       "transform": [
@@ -64,7 +64,7 @@
       "sourceColumnName": "Job Location \u003e Entity ID",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/jobLocation",
+        "id": "jobLocation",
         "propertyName": [
           "externalId"
         ]
@@ -85,7 +85,7 @@
       "sourceColumnName": "Description",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/description",
+        "id": "description",
         "propertyName": []
       },
       "transform": [
@@ -104,7 +104,7 @@
       "sourceColumnName": "Date Posted",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/datePosted",
+        "id": "datePosted",
         "propertyName": []
       },
       "transform": [
@@ -123,7 +123,7 @@
       "sourceColumnName": "Employment Type",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/employmentType",
+        "id": "employmentType",
         "propertyName": []
       },
       "transform": [
@@ -142,7 +142,7 @@
       "sourceColumnName": "Keywords",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/keywords",
+        "id": "keywords",
         "propertyName": []
       },
       "transform": [
@@ -167,7 +167,7 @@
       "sourceColumnName": "Application URL",
       "ignoreColumn": false,
       "fieldReference": {
-        "id": "yext/applicationUrl",
+        "id": "applicationUrl",
         "propertyName": []
       },
       "transform": [
@@ -283,7 +283,7 @@
     {
       "entityClassification": "NEW",
       "fieldReference": {
-        "id": "yext/countryCode",
+        "id": "countryCode",
         "propertyName": []
       },
       "fieldValue": "US",
@@ -302,7 +302,7 @@
     {
       "entityClassification": "NEW",
       "fieldReference": {
-        "id": "yext/entityTypeId",
+        "id": "entityTypeId",
         "propertyName": []
       },
       "fieldValue": "Job",

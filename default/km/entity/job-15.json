@@ -36,15 +36,15 @@
       "width": 1900
     },
     "c_jobQualifications": "* 5-7 years experience\n * Proficiency in Microsoft Office, Microsoft Excel, SQL\n * Excitement to learn",
-    "yext/applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/137",
-    "yext/datePosted": "2020-07-25",
-    "yext/description": "We are one of the fastest growing companies in the US and we\u0027re opening new restaurants every week! Our Restaurant Operations team manages all of the new restaurant opening logistics, as well as managing other location operation details. The team is fast-paced and logistical wizards so we hope you are too!",
-    "yext/employmentType": "FULL_TIME",
-    "yext/hiringOrganization": "Turtlehead Tacos",
-    "yext/jobLocation": "hq-1",
-    "yext/name": "Restaurant Operations Manager"
+    "applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/137",
+    "datePosted": "2020-07-25",
+    "description": "We are one of the fastest growing companies in the US and we\u0027re opening new restaurants every week! Our Restaurant Operations team manages all of the new restaurant opening logistics, as well as managing other location operation details. The team is fast-paced and logistical wizards so we hope you are too!",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": "Turtlehead Tacos",
+    "jobLocation": "hq-1",
+    "name": "Restaurant Operations Manager"
   },
-  "entityType": "yext/job",
+  "entityType": "job",
   "folder": "8e294ef5c64142b685ec13076818541d",
   "labels": []
 }

@@ -11,5 +11,5 @@
       "maxLength": 200
     }
   },
-  "typeId": "yext/string"
+  "typeId": "string"
 }

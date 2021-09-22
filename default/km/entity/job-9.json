@@ -36,15 +36,15 @@
       "width": 1900
     },
     "c_jobQualifications": "* 1-4 years experience\n * Friendly and patient with others",
-    "yext/applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/131",
-    "yext/datePosted": "2020-08-10",
-    "yext/description": "We care deeply about the guest experience and our check-in coordinators are the first people that our guests see when they walk in the door! Whether they are guests coming for take-out or for dine-in, you will be the friendly greeter and coordinator.",
-    "yext/employmentType": "PART_TIME",
-    "yext/hiringOrganization": "Turtlehead Tacos Restaurant",
-    "yext/jobLocation": "7",
-    "yext/name": "Check-in Coordinator"
+    "applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/131",
+    "datePosted": "2020-08-10",
+    "description": "We care deeply about the guest experience and our check-in coordinators are the first people that our guests see when they walk in the door! Whether they are guests coming for take-out or for dine-in, you will be the friendly greeter and coordinator.",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": "Turtlehead Tacos Restaurant",
+    "jobLocation": "7",
+    "name": "Check-in Coordinator"
   },
-  "entityType": "yext/job",
+  "entityType": "job",
   "folder": "4d637a323cab4d9b8b38a721c33ff119",
   "labels": []
 }

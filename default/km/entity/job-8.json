@@ -36,15 +36,15 @@
       "width": 1900
     },
     "c_jobQualifications": "* 1-4 years experience\n * Friendly and patient with others",
-    "yext/applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/130",
-    "yext/datePosted": "2020-04-22",
-    "yext/description": "Organized? Friendly? Able to multi-task? Good memory? This job might be the one for you! We are seeking a Waiter to help serve our guests and bring a smile to their faces! Taco-loving is a must.",
-    "yext/employmentType": "PART_TIME",
-    "yext/hiringOrganization": "Turtlehead Tacos Restaurant",
-    "yext/jobLocation": "3",
-    "yext/name": "Waiter"
+    "applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/130",
+    "datePosted": "2020-04-22",
+    "description": "Organized? Friendly? Able to multi-task? Good memory? This job might be the one for you! We are seeking a Waiter to help serve our guests and bring a smile to their faces! Taco-loving is a must.",
+    "employmentType": "PART_TIME",
+    "hiringOrganization": "Turtlehead Tacos Restaurant",
+    "jobLocation": "3",
+    "name": "Waiter"
   },
-  "entityType": "yext/job",
+  "entityType": "job",
   "folder": "4d637a323cab4d9b8b38a721c33ff119",
   "labels": []
 }

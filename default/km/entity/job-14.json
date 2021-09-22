@@ -36,15 +36,15 @@
       "width": 1900
     },
     "c_jobQualifications": "* 4-6 years experience\n * Ability to manipulate and manage large amounts of data\n * Proficiency in Microsoft Office, Microsoft Excel\n * Self-starter and ability to work independently",
-    "yext/applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/136",
-    "yext/datePosted": "2020-07-19",
-    "yext/description": "We are seeking a financial accountant to help us with financial planning and revenue recognition. We want someone who is experienced and a self-starter. The finance team is small, but mighty and we need your help to grow the business scalably!",
-    "yext/employmentType": "FULL_TIME",
-    "yext/hiringOrganization": "Turtlehead Tacos",
-    "yext/jobLocation": "hq-1",
-    "yext/name": "Financial Accountant"
+    "applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/136",
+    "datePosted": "2020-07-19",
+    "description": "We are seeking a financial accountant to help us with financial planning and revenue recognition. We want someone who is experienced and a self-starter. The finance team is small, but mighty and we need your help to grow the business scalably!",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": "Turtlehead Tacos",
+    "jobLocation": "hq-1",
+    "name": "Financial Accountant"
   },
-  "entityType": "yext/job",
+  "entityType": "job",
   "folder": "724c93c0be914be690256c284d268a05",
   "labels": []
 }

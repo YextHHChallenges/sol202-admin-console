@@ -36,15 +36,15 @@
       "width": 1900
     },
     "c_jobQualifications": "* 1-2 years experience\n * Friendly, organized and great talking on the phone\n * Excitement to learn",
-    "yext/applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/138",
-    "yext/datePosted": "2020-07-31",
-    "yext/description": "We are one of the fastest growing companies in the US and we need your help to grow! Join our team and help us to recruit the people that will help spread the Taco-love across the globe. You will be responsible for helping to recruit key corporate roles as well as establishing best practices for recruiting for our Restaurant Team roles.",
-    "yext/employmentType": "FULL_TIME",
-    "yext/hiringOrganization": "Turtlehead Tacos",
-    "yext/jobLocation": "hq-1",
-    "yext/name": "Recruiting Manager"
+    "applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/138",
+    "datePosted": "2020-07-31",
+    "description": "We are one of the fastest growing companies in the US and we need your help to grow! Join our team and help us to recruit the people that will help spread the Taco-love across the globe. You will be responsible for helping to recruit key corporate roles as well as establishing best practices for recruiting for our Restaurant Team roles.",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": "Turtlehead Tacos",
+    "jobLocation": "hq-1",
+    "name": "Recruiting Manager"
   },
-  "entityType": "yext/job",
+  "entityType": "job",
   "folder": "088d2b8161bf42b8a4771acbc38a5262",
   "labels": []
 }

@@ -50,21 +50,21 @@
     ],
     "c_restaurantType": "DINE-IN_RESTAURANT",
     "c_territory": "Texas",
-    "yext/address": {
+    "address": {
       "city": "Houston",
       "countryCode": "US",
       "line1": "2316 S Shepherd Dr",
       "postalCode": "77019",
       "region": "TX"
     },
-    "yext/attire": "CASUAL",
-    "yext/description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
-    "yext/featuredMessage": {
+    "attire": "CASUAL",
+    "description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
+    "featuredMessage": {
       "description": "Order online today",
       "url": "http://www.turtleheadtacos.com"
     },
-    "yext/geomodifier": "Houston",
-    "yext/hours": {
+    "geomodifier": "Houston",
+    "hours": {
       "friday": {
         "openIntervals": [
           {
@@ -122,8 +122,8 @@
         ]
       }
     },
-    "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/logo": {
+    "landingPageUrl": "http://www.turtleheadtacos.com",
+    "logo": {
       "image": {
         "height": 150,
         "thumbnails": [
@@ -137,9 +137,9 @@
         "width": 150
       }
     },
-    "yext/mainPhone": "+17135558221",
-    "yext/name": "Turtlehead Tacos",
-    "yext/photoGallery": [
+    "mainPhone": "+17135558221",
+    "name": "Turtlehead Tacos",
+    "photoGallery": [
       {
         "description": "Our favorite ground beef tacos",
         "image": {
@@ -172,15 +172,15 @@
         }
       }
     ],
-    "yext/priceRange": "ONE",
-    "yext/timezone": "America/Chicago",
-    "yext/websiteUrl": {
+    "priceRange": "ONE",
+    "timezone": "America/Chicago",
+    "websiteUrl": {
       "displayUrl": "[[landingPageUrl]]",
       "preferDisplayUrl": false,
       "url": "[[landingPageUrl]]"
     }
   },
-  "entityType": "yext/restaurant",
+  "entityType": "restaurant",
   "folder": "e53decf883a0425d84d064a8f7cc6685",
   "labels": [
     "255c24cb89b94c1cbb43672e980813b3"

@@ -36,15 +36,15 @@
       "width": 1900
     },
     "c_jobQualifications": "* 1-3 years experience\n * Proficiency in Microsoft Office, Marketo, Hubspot, Pardot and Salesforce CRM\n * Excitement to learn",
-    "yext/applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/139",
-    "yext/datePosted": "2020-05-01",
-    "yext/description": "Want to have a fast-paced and hands-on internship? Turtlehead Tacos is your place then! You will assist various members of the marketing team on their day to day duties. The team is small so you will be able to make a difference and take on various responsibilities within your first few weeks. Learn and have fun with the Turtleheads!",
-    "yext/employmentType": "INTERN",
-    "yext/hiringOrganization": "Turtlehead Tacos",
-    "yext/jobLocation": "hq-1",
-    "yext/name": "Marketing Intern"
+    "applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/139",
+    "datePosted": "2020-05-01",
+    "description": "Want to have a fast-paced and hands-on internship? Turtlehead Tacos is your place then! You will assist various members of the marketing team on their day to day duties. The team is small so you will be able to make a difference and take on various responsibilities within your first few weeks. Learn and have fun with the Turtleheads!",
+    "employmentType": "INTERN",
+    "hiringOrganization": "Turtlehead Tacos",
+    "jobLocation": "hq-1",
+    "name": "Marketing Intern"
   },
-  "entityType": "yext/job",
+  "entityType": "job",
   "folder": "43072c6c3c1149e9bdc49677cde7ed9a",
   "labels": []
 }

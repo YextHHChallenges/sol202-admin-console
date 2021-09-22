@@ -10,7 +10,7 @@
           "name": "title",
           "displayName": "Title",
           "isRequired": false,
-          "typeId": "yext/string",
+          "typeId": "string",
           "type": {
             "stringType": {
               "stereotype": "SIMPLE"
@@ -21,7 +21,7 @@
           "name": "photo",
           "displayName": "Photo",
           "isRequired": false,
-          "typeId": "yext/image",
+          "typeId": "image",
           "type": {
             "imageType": {
               "isSimpleImage": true,
@@ -38,7 +38,7 @@
           "name": "description",
           "displayName": "Description",
           "isRequired": false,
-          "typeId": "yext/string",
+          "typeId": "string",
           "type": {
             "stringType": {
               "stereotype": "MULTILINE"
@@ -49,7 +49,7 @@
           "name": "url",
           "displayName": "URL",
           "isRequired": false,
-          "typeId": "yext/string",
+          "typeId": "string",
           "type": {
             "stringType": {
               "stereotype": "URL"

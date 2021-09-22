@@ -7,7 +7,7 @@
   "localization": "PRIMARY_ONLY",
   "type": {
     "listType": {
-      "typeId": "yext/option",
+      "typeId": "option",
       "type": {
         "optionType": {
           "option": [
@@ -44,5 +44,5 @@
       }
     }
   },
-  "typeId": "yext/list"
+  "typeId": "list"
 }

@@ -47,21 +47,21 @@
     ],
     "c_restaurantType": "DINE-IN_RESTAURANT",
     "c_territory": "West",
-    "yext/address": {
+    "address": {
       "city": "Denver",
       "countryCode": "US",
       "line1": "1391 Speer Blvd",
       "postalCode": "80204",
       "region": "CO"
     },
-    "yext/attire": "CASUAL",
-    "yext/description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
-    "yext/featuredMessage": {
+    "attire": "CASUAL",
+    "description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
+    "featuredMessage": {
       "description": "Order online today",
       "url": "http://www.turtleheadtacos.com"
     },
-    "yext/geomodifier": "Denver",
-    "yext/hours": {
+    "geomodifier": "Denver",
+    "hours": {
       "friday": {
         "openIntervals": [
           {
@@ -119,8 +119,8 @@
         ]
       }
     },
-    "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/logo": {
+    "landingPageUrl": "http://www.turtleheadtacos.com",
+    "logo": {
       "image": {
         "height": 150,
         "thumbnails": [
@@ -134,9 +134,9 @@
         "width": 150
       }
     },
-    "yext/mainPhone": "+13035551701",
-    "yext/name": "Turtlehead Tacos",
-    "yext/photoGallery": [
+    "mainPhone": "+13035551701",
+    "name": "Turtlehead Tacos",
+    "photoGallery": [
       {
         "description": "Our favorite ground beef tacos",
         "image": {
@@ -169,15 +169,15 @@
         }
       }
     ],
-    "yext/priceRange": "ONE",
-    "yext/timezone": "America/Denver",
-    "yext/websiteUrl": {
+    "priceRange": "ONE",
+    "timezone": "America/Denver",
+    "websiteUrl": {
       "displayUrl": "[[landingPageUrl]]",
       "preferDisplayUrl": false,
       "url": "[[landingPageUrl]]"
     }
   },
-  "entityType": "yext/restaurant",
+  "entityType": "restaurant",
   "folder": "0d0dd82f7d9144489804a3cef5e203cf",
   "labels": [
     "3ea67e966bb04104868f239a133a8392"

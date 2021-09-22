@@ -50,21 +50,21 @@
     ],
     "c_restaurantType": "DINE-IN_RESTAURANT",
     "c_territory": "North",
-    "yext/address": {
+    "address": {
       "city": "New York",
       "countryCode": "US",
       "line1": "1 Madison Ave",
       "postalCode": "10010",
       "region": "NY"
     },
-    "yext/attire": "CASUAL",
-    "yext/description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
-    "yext/featuredMessage": {
+    "attire": "CASUAL",
+    "description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
+    "featuredMessage": {
       "description": "Order online today",
       "url": "http://www.turtleheadtacos.com"
     },
-    "yext/geomodifier": "New York",
-    "yext/hours": {
+    "geomodifier": "New York",
+    "hours": {
       "friday": {
         "openIntervals": [
           {
@@ -122,8 +122,8 @@
         ]
       }
     },
-    "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/logo": {
+    "landingPageUrl": "http://www.turtleheadtacos.com",
+    "logo": {
       "image": {
         "height": 150,
         "thumbnails": [
@@ -137,9 +137,9 @@
         "width": 150
       }
     },
-    "yext/mainPhone": "+12125553951",
-    "yext/name": "Turtlehead Tacos",
-    "yext/photoGallery": [
+    "mainPhone": "+12125553951",
+    "name": "Turtlehead Tacos",
+    "photoGallery": [
       {
         "description": "Our favorite ground beef tacos",
         "image": {
@@ -172,15 +172,15 @@
         }
       }
     ],
-    "yext/priceRange": "ONE",
-    "yext/timezone": "America/New_York",
-    "yext/websiteUrl": {
+    "priceRange": "ONE",
+    "timezone": "America/New_York",
+    "websiteUrl": {
       "displayUrl": "[[landingPageUrl]]",
       "preferDisplayUrl": false,
       "url": "[[landingPageUrl]]"
     }
   },
-  "entityType": "yext/restaurant",
+  "entityType": "restaurant",
   "folder": "b346d84c874d4d6f8a36e2adfd07d723",
   "labels": [
     "c6c47cf214ef4e1e868474e2d59bb8a3"
