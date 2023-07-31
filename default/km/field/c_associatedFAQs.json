@@ -1,20 +1,20 @@
 {
-  "$id": "c_associatedFAQs",
-  "$schema": "https://schema.yext.com/config/km/field/v1",
-  "displayName": "Associated FAQs",
-  "group": "NONE",
-  "localization": "PRIMARY_ONLY",
-  "type": {
-    "listType": {
-      "typeId": "entityReference",
-      "type": {
-        "entityReferenceType": {
-          "supportedEntityTypeIds": [
-            "faq"
-          ]
+    "$id": "c_associatedFAQs",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "Associated FAQs",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "type": {
+        "listType": {
+            "typeId": "entityReference",
+            "type": {
+                "entityReferenceType": {
+                    "supportedEntityTypeIds": [
+                        "faq"
+                    ]
+                }
+            }
         }
-      }
-    }
-  },
-  "typeId": "list"
+    },
+    "typeId": "list"
 }
