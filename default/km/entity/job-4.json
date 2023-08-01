@@ -1,6 +1,7 @@
 {
   "$id": "job-4",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
   "content": {
     "c_benefits": [
       "Medical and Dental insurance plans",
@@ -13,29 +14,115 @@
     ],
     "c_jobDepartment": "RESTAURANT_TEAM",
     "c_jobPhoto": {
-      "height": 1266,
+      "height": 450,
       "sourceUrl": "https://dynl.mktgcdn.com/p-sandbox/ikDP_y9n1CtAUdWjCg7AgZhcYm4XadTxjWzwKr4A84I/700x450.jpg",
       "thumbnails": [
         {
-          "height": 412,
-          "url": "http://a.mktgcdn.com/p-sandbox/DtlAmZz2b4LVcE0jyWfPOfX8maQR0OH5FT8bOmC7GEU/619x412.jpg",
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p-sandbox/BN7ol8N49q02SwgP1Qi8ceCvsYWTiz0P9WfirP5lgsg/675x450.jpg",
+          "width": 675
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p-sandbox/BN7ol8N49q02SwgP1Qi8ceCvsYWTiz0P9WfirP5lgsg/619x413.jpg",
           "width": 619
         },
         {
-          "height": 399,
-          "url": "http://a.mktgcdn.com/p-sandbox/DtlAmZz2b4LVcE0jyWfPOfX8maQR0OH5FT8bOmC7GEU/600x399.jpg",
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p-sandbox/BN7ol8N49q02SwgP1Qi8ceCvsYWTiz0P9WfirP5lgsg/600x400.jpg",
           "width": 600
         },
         {
-          "height": 130,
-          "url": "http://a.mktgcdn.com/p-sandbox/DtlAmZz2b4LVcE0jyWfPOfX8maQR0OH5FT8bOmC7GEU/196x130.jpg",
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p-sandbox/BN7ol8N49q02SwgP1Qi8ceCvsYWTiz0P9WfirP5lgsg/196x131.jpg",
           "width": 196
         }
       ],
-      "url": "http://a.mktgcdn.com/p-sandbox/DtlAmZz2b4LVcE0jyWfPOfX8maQR0OH5FT8bOmC7GEU/1900x1266.jpg",
-      "width": 1900
+      "url": "https://a.mktgcdn.com/p-sandbox/BN7ol8N49q02SwgP1Qi8ceCvsYWTiz0P9WfirP5lgsg/675x450.jpg",
+      "width": 675
     },
-    "c_jobQualifications": "* 1-3 years experience\n * Ability to lead a kitchen staff\n * Not afraid to try new things but also good at following direction of our Culinary team",
+    "c_jobQualifications": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "1-3 years experience",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 1,
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Ability to lead a kitchen staff",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 2,
+                  "version": 1
+                },
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Not afraid to try new things but also good at following direction of our Culinary team",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "listitem",
+                  "value": 3,
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "listType": "bullet",
+              "start": 1,
+              "tag": "ul",
+              "type": "list",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
     "applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/126",
     "datePosted": "2020-03-31",
     "description": "Love to cook? Have a flair for the creative! Turtlehead Tacos might be the place for you. We\u0027re seeking a chef that can help bring our culinary delights to life.",
