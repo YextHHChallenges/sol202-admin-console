@@ -252,7 +252,9 @@
       "ignoreColumn": false,
       "fieldReference": {
         "id": "c_jobQualifications",
-        "propertyName": []
+        "propertyName": [
+          "json"
+        ]
       },
       "transform": [
         {
@@ -263,13 +265,6 @@
             "handleBlankValues": "IGNORE"
           },
           "transformType": "HANDLE_BLANK_VALUES"
-        },
-        {
-          "richTextFormatConfiguration": {
-            "formatLanguage": "MARKDOWN",
-            "formatTransformValues": "ALLOW_SUPPORTED_FORMATTING"
-          },
-          "transformType": "RICH_TEXT_FORMATTING_TYPE"
         }
       ]
     },

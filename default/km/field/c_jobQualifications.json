@@ -5,9 +5,9 @@
     "group": "NONE",
     "localization": "PRIMARY_ONLY",
     "type": {
-        "markdownType": {
-            "maxLength": 100000
-        }
+      "richTextV2Type": {
+        "maxLength": 100000
+      }
     },
-    "typeId": "markdown"
-}
+    "typeId": "richTextV2"
+  }
